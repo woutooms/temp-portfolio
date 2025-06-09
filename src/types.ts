@@ -54,6 +54,18 @@ export interface Social {
   twitter?: string;
 }
 
+interface ReflectionSection {
+  title: string;
+  content: string;
+}
+
+interface ReflectionData {
+  stageReflection: ReflectionSection;
+  personalGrowth: ReflectionSection;
+  futureVision: ReflectionSection;
+  workplaceReflection: ReflectionSection;
+}
+
 export interface Portfolio {
   name: string;
   title: string;
@@ -63,6 +75,7 @@ export interface Portfolio {
   experience: Experience[];
   skills: Skill[];
   contact: Contact;
+  reflection: ReflectionData;
 }
 
 export default Portfolio;

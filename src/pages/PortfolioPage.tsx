@@ -5,6 +5,7 @@ import Skills from "../components/Portfolio/Skills";
 import Education from "../components/Portfolio/Education";
 import Experience from "../components/Portfolio/Experience";
 import Projects from "../components/Portfolio/Projects";
+import Reflection from "../components/Portfolio/Reflection";
 import useFetch from "../hooks/useFetch";
 import { motion } from "framer-motion";
 
@@ -117,6 +118,13 @@ const PortfolioPage: React.FC = () => {
                 Bekijk alle projecten
               </a>
             </div>
+          </div>
+        </section>
+
+        {/* Reflection Section */}
+        <section className="bg-gray-50">
+          <div className="section-container">
+            <Reflection reflection={portfolio.reflection} />
           </div>
         </section>
       </div>

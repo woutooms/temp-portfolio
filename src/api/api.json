@@ -3,13 +3,13 @@
     "portfolio": {
       "name": "Wout Ooms",
       "title": "Developer",
-      "description": "Software developer met ervaring in frontend en backend. Gespecialiseerd in moderne technologieën en gedreven om projecten te maken die dagelijkse zaken eenvoudiger maken.",
+      "description": "Software developer met ervaring in zowel frontend als backend development. Ik werk aan diverse projecten, waaronder webapplicaties, en ben gespecialiseerd in moderne technologieën.",
       "projects": [
         {
           "name": "Stage",
           "description": "Een innovatieve Odoo module voor automatische opslag en AI-samenvatting van telefoongesprekken, geïntegreerd in het CRM-systeem.",
           "detailedDescription": "Tijdens mijn stage bij DCBO Open Solutions heb ik een complexe telefonie-integratie ontwikkeld die verschillende systemen naadloos met elkaar verbindt. Het project begint met Telxi voor het opzetten van SIP trunks en DID nummers, die vervolgens geconfigureerd worden in 3CX - een professionele telefonie-omgeving waar alle aspecten van de telefonie-infrastructuur beheerd worden.\n\n3CX slaat automatisch alle telefoongesprekken op en stuurt deze door naar Leexi, waar geavanceerde AI-technologie wordt ingezet om gesprekssamenvattingen te genereren. Deze samenvattingen worden automatisch als meetings aangemaakt in Leexi en gekoppeld aan contacten op basis van het telefoonnummer.\n\nDe werknemers die de gesprekken hebben gevoerd, kunnen vervolgens deze meetings eenvoudig koppelen aan bestaande opportunities in het CRM-systeem of nieuwe opportunities aanmaken. Deze geïntegreerde oplossing heeft de efficiëntie van klantcommunicatie aanzienlijk verbeterd en zorgt ervoor dat geen enkele belangrijke gespreksinhoud verloren gaat.",
-          "image": "/images/odoofront.png",
+          "image": "/images/odoo.png",
           "images": [
             "/images/frontpage.png",
             "/images/schema.png"
@@ -20,28 +20,32 @@
           "status": "Voltooid"
         },
         {
-          "name": "Project 2",
-          "description": "Project 2",
-          "image": "/images/empty.png",
+          "name": "Color Switch",
+          "description": "Een kleurrijke mobiele game ontwikkeld in Unity, waarbij spelers door verschillende obstakels moeten navigeren door van kleur te wisselen.",
+          "detailedDescription": "Color Switch is een uitdagende arcade-game die ik heb ontwikkeld met Unity. Het spel draait om het concept van kleurwisseling - spelers moeten hun karakter door verschillende obstakels navigeren door op het juiste moment van kleur te veranderen. De game bevat verschillende levels met toenemende moeilijkheidsgraad en unieke obstakels.\n\nHet project heeft me geholpen om mijn vaardigheden in Unity game development te verbeteren, waarbij ik heb gewerkt met physics, particle systems, user interface design en game mechanics. Ik heb ook custom shaders ontwikkeld voor de visuele effecten en een responsive control system geïmplementeerd voor een soepele gameplay ervaring.",
+          "image": "/images/colorswitch.png",
           "images": [
-            "/images/empty.png"
+            "/images/colorswitch.png"
           ],
-          "technologies": [],
-          "category": "",
-          "year": "",
-          "status": ""
+          "technologies": ["Unity", "C#"],
+          "category": "Game Development",
+          "year": "2024",
+          "status": "Voltooid",
+          "website": "https://github.com/woutooms/Color-Switch"
         },
         {
-          "name": "Project 3",
-          "description": "Project 3",
-          "image": "/images/empty.png",
+          "name": "Boxing Club Herentals",
+          "description": "Een WordPress-website die we hebben gemaakt voor een groepsopdracht",
+          "detailedDescription": "Voor Boxing Club Herentals hebben we een professionele WordPress website ontwikkeld als onderdeel van een groepsopdracht tijdens onze studie. De website biedt een complete online aanwezigheid voor de boksclub, met informatie over trainingen, coaches, evenementen en lidmaatschappen. Het project vereiste een grondige analyse van de behoeften van de club en het ontwikkelen van een gebruiksvriendelijke interface die zowel huidige als potentiële leden aanspreekt.",
+          "image": "/images/boxing.png",
           "images": [
-            "/images/empty.png"
+            "/images/boxing.png"
           ],
-          "technologies": [],
-          "category": "",
-          "year": "",
-          "status": ""
+          "technologies": ["WordPress"],
+          "category": "Web Design",
+          "year": "2024",
+          "status": "Voltooid",
+          "website": ""
         }
       ],
       "education": [
@@ -121,9 +125,28 @@
           "github": "https://github.com/woutooms",
           "twitter": "https://x.com/OomsWout"
         }
+      },
+      "reflection": {
+        "stageReflection": {
+          "title": "Stage Reflectie - DCBO Open Solutions",
+          "content": "Mijn stage bij DCBO Open Solutions markeerde een keerpunt in mijn carrière als IT'er. Ik was betrokken bij een uitdagend project over telefonie-integratie. Dit was het moment waarop ik mijn grenzen echt moest verleggen. Het vereiste dat ik verschillende technologieën combineerde, die ik eerder nog niet samen had toegepast of slechts afzonderlijk kende. De voornaamste uitdaging was het doorgronden van het totale proces, van telefonie tot de koppeling met CRM. Ik moest me verdiepen in Telxi, 3CX en Leexi, wat nieuw voor mij was. Het vereiste veel zelfstudie en vooral een hoop experimenteren. Wat ik daaruit het meest heb geleerd, is de waarde van systeemdenken. Het draait niet alleen om programmeren, maar ook om hoe alles met elkaar in verbinding staat en op welke manier gebruikers hier daadwerkelijk mee interageren. Deze bredere visie heeft mijn rol als ontwikkelaar volledig veranderd."
+        },
+        "personalGrowth": {
+          "title": "Persoonlijke Ontwikkeling",
+          "content": "Tijdens mijn opleiding en stage heb ik een significante groei doorgemaakt, zowel technisch als persoonlijk. In het begin focuste ik me vooral op het leren van programmeertalen en frameworks, maar gaandeweg realiseerde ik me dat succesvolle IT professionals veel meer nodig hebben.\n\nDaarnaast heb ik geleerd om meer proactief te zijn in het stellen van vragen en het voorstellen van verbeteringen. In plaats van alleen uit te voeren wat gevraagd werd, ben ik begonnen met het meedenken over processen en mogelijke optimalisaties."
+        },
+        "futureVision": {
+          "title": "Toekomstvisie",
+          "content": "In de komende 2 jaar wil ik vooral een normale job vinden. Het hoeft niet meteen iets met doorgroeimogelijkheden te zijn, zolang ik er maar mijn draai kan vinden en werkervaring opdoe. Tegelijk wil ik blijven kijken of er iets beters of interessanters op mijn pad komt. Misschien wil ik uiteindelijk zelfs als zelfstandige aan de slag."
+        },
+        "workplaceReflection": {
+          "title": "Werkplek Ervaring - DCBO Open Solutions",
+          "content": "DCBO Open Solutions bood me een uitstekende gelegenheid om als developer echt te leren en mezelf te ontwikkelen. Het was mijn eerste kennismaking met enterprise software, en ik merkte al snel dat het bedrijf veel belang hecht aan het delen van kennis en het verkennen van nieuwe mogelijkheden. Wat me het meeste is bijgebleven, is het belang van een grondig begrip van de behoeften van de klant. Een technische oplossing is niet altijd ideaal als deze niet aansluit bij de gebruiker. Deze ervaring heeft mijn inzicht vergroot dat ik verder moet kijken dan alleen naar code. De ondersteuning was fantastisch. Ik kreeg ruime vrijheid om zelf dingen te verkennen en fouten te maken, maar er was altijd iemand beschikbaar om me te helpen wanneer ik vastliep. Deze mix van zelfstandigheid en ondersteuning heeft me veel vertrouwen in mijn vaardigheden als ontwikkelaar gegeven."
+        }
       }
     }
   },
+
   {
     "contact": {
       "description": "Neem gerust contact met me op voor vragen of samenwerkingen.",
