@@ -11,11 +11,7 @@ interface SkillsProps {
 
 const Skills: React.FC<SkillsProps> = ({ skills }) => {
   return (
-<<<<<<< HEAD
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-=======
-    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
->>>>>>> 41ffd6e (WIP: lokale wijzigingen voor rebase)
       {skills.map((skill, index) => (
         <div
           key={index}
