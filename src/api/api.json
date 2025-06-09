@@ -1,0 +1,135 @@
+[
+  {
+    "portfolio": {
+      "name": "Wout Ooms",
+      "title": "Developer",
+      "description": "Software developer met ervaring in frontend en backend. Gespecialiseerd in moderne technologieën en gedreven om projecten te maken die dagelijkse zaken eenvoudiger maken.",
+      "projects": [
+        {
+          "name": "Stage",
+          "description": "Een innovatieve Odoo module voor automatische opslag en AI-samenvatting van telefoongesprekken, geïntegreerd in het CRM-systeem.",
+          "detailedDescription": "Tijdens mijn stage bij DCBO Open Solutions heb ik een complexe telefonie-integratie ontwikkeld die verschillende systemen naadloos met elkaar verbindt. Het project begint met Telxi voor het opzetten van SIP trunks en DID nummers, die vervolgens geconfigureerd worden in 3CX - een professionele telefonie-omgeving waar alle aspecten van de telefonie-infrastructuur beheerd worden.\n\n3CX slaat automatisch alle telefoongesprekken op en stuurt deze door naar Leexi, waar geavanceerde AI-technologie wordt ingezet om gesprekssamenvattingen te genereren. Deze samenvattingen worden automatisch als meetings aangemaakt in Leexi en gekoppeld aan contacten op basis van het telefoonnummer.\n\nDe werknemers die de gesprekken hebben gevoerd, kunnen vervolgens deze meetings eenvoudig koppelen aan bestaande opportunities in het CRM-systeem of nieuwe opportunities aanmaken. Deze geïntegreerde oplossing heeft de efficiëntie van klantcommunicatie aanzienlijk verbeterd en zorgt ervoor dat geen enkele belangrijke gespreksinhoud verloren gaat.",
+          "image": "/images/odoofront.png",
+          "images": [
+            "/images/frontpage.png",
+            "/images/schema.png"
+          ],
+          "technologies": ["Odoo", "Python", "AI", "CRM", "XML", "Telxi", "3CX", "Leexi", "SIP"],
+          "category": "Business Software",
+          "year": "2025",
+          "status": "Voltooid"
+        },
+        {
+          "name": "Project 2",
+          "description": "Project 2",
+          "image": "/images/empty.png",
+          "images": [
+            "/images/empty.png"
+          ],
+          "technologies": [],
+          "category": "",
+          "year": "",
+          "status": ""
+        },
+        {
+          "name": "Project 3",
+          "description": "Project 3",
+          "image": "/images/empty.png",
+          "images": [
+            "/images/empty.png"
+          ],
+          "technologies": [],
+          "category": "",
+          "year": "",
+          "status": ""
+        }
+      ],
+      "education": [
+        {
+          "degree": "Programmeren",
+          "school": "Thomas More, Geel",
+          "year": "2023 - 2025"
+        },
+        {
+          "degree": "Toegepaste Informatica",
+          "school": "Thomas More, Geel",
+          "year": "2021 - 2023"
+        },
+        {
+          "degree": "Elektriciteit Elektronica",
+          "school": "TISP Mol",
+          "year": "2017 - 2021"
+        }
+      ],
+      "experience": [
+        {
+          "title": "Stagair",
+          "company": "DCBO Open Solutions",
+          "year": "2025",
+          "description": "Tijdens mijn stage bij DCBO Open Solutions heb ik een innovatieve Odoo module ontwikkeld die telefoongesprekken automatisch opslaat en samenvat met behulp van AI-technologie. Deze module integreert naadloos in het Odoo CRM-systeem en koppelt de gesprekssamenvatting automatisch aan de juiste contactpersonen, waardoor de efficiëntie van de klantcommunicatie aanzienlijk wordt verbeterd.",
+          "website": "https://www.dcbo.be/"
+        },
+        {
+          "title": "Collab Lead & Research",
+          "company": "Kollectiv",
+          "year": "2024 - nu",
+          "description": "Als leidinggevende op het gebied van samenwerkingen en partnerschappen bouw ik sterke relaties op met relevante organisaties en educatie over on-chain trading.",
+          "website": "https://kollectiv.io/"
+        }
+      ],
+      "skills": [
+        {
+          "name": "HTML",
+          "level": "Ervaren"
+        },
+        {
+          "name": "CSS",
+          "level": "Ervaren"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Ervaren"
+        },
+        {
+          "name": ".NET",
+          "level": "Gevorderd"
+        },
+        {
+          "name": "React",
+          "level": "Ervaren"
+        },
+        {
+          "name": "Java",
+          "level": "Gevorderd"
+        },
+        {
+          "name": "Python",
+          "level": "Ervaren"
+        },
+        {
+          "name": "Odoo",
+          "level": "Gevorderd"
+        }
+      ],
+      "contact": {
+        "email": "wout@test.com",
+        "phone": "0493 12 34 56",
+        "address": "2470, Retie",
+        "website": "www.wout.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/in/wout-ooms-40a487237/",
+          "github": "https://github.com/woutooms",
+          "twitter": "https://x.com/OomsWout"
+        }
+      }
+    }
+  },
+  {
+    "contact": {
+      "description": "Neem gerust contact met me op voor vragen of samenwerkingen.",
+      "address": "2470, Retie",
+      "phone": "0493 08 17 18",
+      "email": "wout.ooms03@gmail.com"
+    }
+  }
+]
