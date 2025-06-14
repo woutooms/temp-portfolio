@@ -30,15 +30,6 @@ const Skills: React.FC<SkillsProps> = ({ skills }) => {
               <h3 className="text-lg font-bold text-gray-900 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-primary-600 group-hover:to-accent-600 transition-all duration-300 mb-3">
                 {skill.name}
               </h3>
-              
-              {/* Enhanced level badge with gradient */}
-              <span className={`text-xs font-semibold px-3 py-1.5 rounded-full transition-all duration-300 ${
-                skill.level === 'Ervaren' 
-                  ? 'bg-gradient-to-r from-primary-100 to-accent-100 text-primary-700 group-hover:from-primary-500 group-hover:to-accent-500 group-hover:text-white group-hover:shadow-md'
-                  : 'bg-gradient-to-r from-accent-100 to-primary-100 text-accent-700 group-hover:from-accent-500 group-hover:to-primary-500 group-hover:text-white group-hover:shadow-md'
-              }`}>
-                {skill.level}
-              </span>
             </div>
           </div>
           

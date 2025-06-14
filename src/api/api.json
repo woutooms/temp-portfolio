@@ -6,16 +6,16 @@
       "description": "Software developer met ervaring in zowel frontend als backend development. Ik werk aan diverse projecten, waaronder webapplicaties, en ben gespecialiseerd in moderne technologieën.",
       "projects": [
         {
-          "name": "Stage",
+          "name": "Werkplekleren Opdracht",
           "description": "Een innovatieve Odoo module voor automatische opslag en AI-samenvatting van telefoongesprekken, geïntegreerd in het CRM-systeem.",
-          "detailedDescription": "Tijdens mijn stage bij DCBO Open Solutions heb ik een complexe telefonie-integratie ontwikkeld die verschillende systemen naadloos met elkaar verbindt. Het project begint met Telxi voor het opzetten van SIP trunks en DID nummers, die vervolgens geconfigureerd worden in 3CX - een professionele telefonie-omgeving waar alle aspecten van de telefonie-infrastructuur beheerd worden.\n\n3CX slaat automatisch alle telefoongesprekken op en stuurt deze door naar Leexi, waar geavanceerde AI-technologie wordt ingezet om gesprekssamenvattingen te genereren. Deze samenvattingen worden automatisch als meetings aangemaakt in Leexi en gekoppeld aan contacten op basis van het telefoonnummer.\n\nDe werknemers die de gesprekken hebben gevoerd, kunnen vervolgens deze meetings eenvoudig koppelen aan bestaande opportunities in het CRM-systeem of nieuwe opportunities aanmaken. Deze geïntegreerde oplossing heeft de efficiëntie van klantcommunicatie aanzienlijk verbeterd en zorgt ervoor dat geen enkele belangrijke gespreksinhoud verloren gaat.",
+          "detailedDescription": "Tijdens mijn Werkplekleren opdracht bij DCBO Open Solutions heb ik een complexe telefonie-integratie ontwikkeld die verschillende systemen naadloos met elkaar verbindt. Het project begint met Telxi voor het opzetten van SIP trunks en DID nummers, die vervolgens geconfigureerd worden in 3CX - een professionele telefonie-omgeving waar alle aspecten van de telefonie-infrastructuur beheerd worden.\n\n3CX slaat automatisch alle telefoongesprekken op en stuurt deze door naar Leexi, waar geavanceerde AI-technologie wordt ingezet om gesprekssamenvattingen te genereren. Deze samenvattingen worden automatisch als meetings aangemaakt in Leexi en gekoppeld aan contacten op basis van het telefoonnummer.\n\nDe werknemers die de gesprekken hebben gevoerd, kunnen vervolgens deze meetings eenvoudig koppelen aan bestaande opportunities in het CRM-systeem of nieuwe opportunities aanmaken. Deze geïntegreerde oplossing heeft de efficiëntie van klantcommunicatie aanzienlijk verbeterd en zorgt ervoor dat geen enkele belangrijke gespreksinhoud verloren gaat.",
           "image": "/images/odoofront.png",
           "images": [
             "/images/frontpage.png",
             "/images/schema.png"
           ],
           "technologies": ["Odoo", "Python", "AI", "CRM", "XML", "Telxi", "3CX", "Leexi", "SIP"],
-          "category": "Business Software",
+          "category": "Odoo Module",
           "year": "2025",
           "status": "Voltooid"
         },
@@ -70,7 +70,7 @@
           "title": "Stagair",
           "company": "DCBO Open Solutions",
           "year": "2025",
-          "description": "Tijdens mijn stage bij DCBO Open Solutions heb ik een innovatieve Odoo module ontwikkeld die telefoongesprekken automatisch opslaat en samenvat met behulp van AI-technologie. Deze module integreert naadloos in het Odoo CRM-systeem en koppelt de gesprekssamenvatting automatisch aan de juiste contactpersonen, waardoor de efficiëntie van de klantcommunicatie aanzienlijk wordt verbeterd.",
+          "description": "Tijdens mijn werkplekleren opdract bij DCBO Open Solutions heb ik een innovatieve Odoo module ontwikkeld die telefoongesprekken automatisch opslaat en samenvat met behulp van AI-technologie. Deze module integreert naadloos in het Odoo CRM-systeem en koppelt de gesprekssamenvatting automatisch aan de juiste contactpersonen, waardoor de efficiëntie van de klantcommunicatie aanzienlijk wordt verbeterd.",
           "website": "https://www.dcbo.be/"
         },
         {
@@ -128,12 +128,12 @@
       },
       "reflection": {
         "stageReflection": {
-          "title": "Stage Reflectie - DCBO Open Solutions",
-          "content": "Mijn stage bij DCBO Open Solutions markeerde een keerpunt in mijn carrière als IT'er. Ik was betrokken bij een uitdagend project over telefonie-integratie. Dit was het moment waarop ik mijn grenzen echt moest verleggen. Het vereiste dat ik verschillende technologieën combineerde, die ik eerder nog niet samen had toegepast of slechts afzonderlijk kende. De voornaamste uitdaging was het doorgronden van het totale proces, van telefonie tot de koppeling met CRM. Ik moest me verdiepen in Telxi, 3CX en Leexi, wat nieuw voor mij was. Het vereiste veel zelfstudie en vooral een hoop experimenteren. Wat ik daaruit het meest heb geleerd, is de waarde van systeemdenken. Het draait niet alleen om programmeren, maar ook om hoe alles met elkaar in verbinding staat en op welke manier gebruikers hier daadwerkelijk mee interageren. Deze bredere visie heeft mijn rol als ontwikkelaar volledig veranderd."
+          "title": "Werkplekleren Reflectie - DCBO Open Solutions",
+          "content": "Mijn werkplekleren opdracht bij DCBO Open Solutions markeerde een keerpunt in mijn carrière als IT'er. Ik was betrokken bij een uitdagend project over telefonie-integratie. Dit was het moment waarop ik mijn grenzen echt moest verleggen. Het vereiste dat ik verschillende technologieën combineerde, die ik eerder nog niet samen had toegepast of slechts afzonderlijk kende. De voornaamste uitdaging was het doorgronden van het totale proces, van telefonie tot de koppeling met CRM. Ik moest me verdiepen in Telxi, 3CX en Leexi, wat nieuw voor mij was. Het vereiste veel zelfstudie en vooral een hoop experimenteren. Wat ik daaruit het meest heb geleerd, is de waarde van systeemdenken. Het draait niet alleen om programmeren, maar ook om hoe alles met elkaar in verbinding staat en op welke manier gebruikers hier daadwerkelijk mee interageren. Deze bredere visie heeft mijn rol als ontwikkelaar volledig veranderd."
         },
         "personalGrowth": {
           "title": "Persoonlijke Ontwikkeling",
-          "content": "Tijdens mijn opleiding en stage heb ik een significante groei doorgemaakt, zowel technisch als persoonlijk. In het begin focuste ik me vooral op het leren van programmeertalen en frameworks, maar gaandeweg realiseerde ik me dat succesvolle IT professionals veel meer nodig hebben.\n\nDaarnaast heb ik geleerd om meer proactief te zijn in het stellen van vragen en het voorstellen van verbeteringen. In plaats van alleen uit te voeren wat gevraagd werd, ben ik begonnen met het meedenken over processen en mogelijke optimalisaties."
+          "content": "Tijdens mijn opleiding en werkplekleren opdracht heb ik een significante groei doorgemaakt, zowel technisch als persoonlijk. In het begin focuste ik me vooral op het leren van programmeertalen en frameworks, maar gaandeweg realiseerde ik me dat succesvolle IT professionals veel meer nodig hebben.\n\nDaarnaast heb ik geleerd om meer proactief te zijn in het stellen van vragen en het voorstellen van verbeteringen. In plaats van alleen uit te voeren wat gevraagd werd, ben ik begonnen met het meedenken over processen en mogelijke optimalisaties."
         },
         "futureVision": {
           "title": "Toekomstvisie",
